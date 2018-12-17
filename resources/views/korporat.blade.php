@@ -28,7 +28,7 @@
                 <span>Password</span>
                 <input type="password" />
                 </label>
-                <a href="http://localhost:8000/utama"><button type="button" class="submit">Sign In</button></a>
+                <a href="http://10.0.0.2/utama"><button type="button" class="submit">Sign In</button></a>
             </div>
                 
             <div class="sub-cont">
@@ -51,8 +51,8 @@
                 
                 <div class="form masyarakat">
                     <h2> PROSIBAD untuk kemajuan dan kesejahteraan masyarakat</h2>
-                    <a href="http://localhost:8000/dokumentasi"><button type="button" class="submit">Dokumentasi</button></a>
-                    <a href="http://localhost:8000/sosialisasi"><button type="button" class="submit">Sosialisasi</button></a>
+                    <a href="http://10.0.0.2/dokumentasi"><button type="button" class="submit">Dokumentasi</button></a>
+                    <a href="http://10.0.0.2/sosialisasi"><button type="button" class="submit">Sosialisasi</button></a>
                 </div>
             </div>
             </div>

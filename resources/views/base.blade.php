@@ -40,13 +40,13 @@
         <ul class="main-nav">
             <!-- Your Logo Or Site Name -->
             <li class="nav-brand">
-                <h2><a href="http://localhost:8000/utama">P R O S I B A D</a></h2>
+                <h2><a href="http://10.0.0.2/utama">P R O S I B A D</a></h2>
             </li>
             <li>
-                <a href="http://localhost:8000/isian/create">Buat Laporan</a>
+                <a href="http://10.0.0.2/isian/create">Buat Laporan</a>
             </li>
             <li>
-                <a href="http://localhost:8000/isian">Daftar Laporan</a>
+                <a href="http://10.0.0.2/isian">Daftar Laporan</a>
             </li>
             <!-- <li>
             <a href="https://twitter.com/prayudha_bn">- prayudhabn</a>

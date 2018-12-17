@@ -13,11 +13,11 @@
 
 				<!-- Header -->
 					<header id="header">
-						<h1><a href="http://localhost:8000/masyarakat">PROSIBAD</a></h1>
+						<h1><a href="http://10.0.0.2/masyarakat">PROSIBAD</a></h1>
 						<nav class="links">
 							<ul>
-								<li><a href="http://localhost:8000/dokumentasi">DOKUMENTASI</a></li>
-								<li><a href="http://localhost:8000/sosialisasi">SOSIALISASI</a></li>
+								<li><a href="http://10.0.0.2/dokumentasi">DOKUMENTASI</a></li>
+								<li><a href="http://10.0.0.2/sosialisasi">SOSIALISASI</a></li>
 							</ul>
 					</header>
 

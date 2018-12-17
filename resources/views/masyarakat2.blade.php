@@ -13,11 +13,11 @@
 
 				<!-- Header -->
 					<header id="header">
-						<h1><a href="http://localhost:8000/masyarakat">PROSIBAD</a></h1>
+						<h1><a href="http://10.0.0.2/masyarakat">PROSIBAD</a></h1>
 						<nav class="links">
 							<ul>
-								<li><a href="http://localhost:8000/dokumentasi">Dokumentasi</a></li>
-								<li><a href="http://localhost:8000/sosialisasi">Sosialisasi </a></li>
+								<li><a href="http://10.0.0.2/dokumentasi">Dokumentasi</a></li>
+								<li><a href="http://10.0.0.2/sosialisasi">Sosialisasi </a></li>
 <!--
 								<li><a href="#">Feugiat</a></li>
 								<li><a href="#">Tempus</a></li>
@@ -87,7 +87,7 @@
 						<!-- Actions -->
 							<section>
 								<ul class="actions stacked">
-									<li><a href="http://localhost:8000/utama" class="button large fit">Kembali</a></li>
+									<li><a href="http://10.0.0.2/utama" class="button large fit">Kembali</a></li>
 								</ul>
 							</section>
 
@@ -461,7 +461,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 
                         <!-- Pagination -->
 							<ul class="actions pagination">
-								<li><a href="http://localhost:8000/masyarakat" class="button large previous">Previous Page</a></li>
+								<li><a href="http://10.0.0.2" class="button large previous">Previous Page</a></li>
 								<li><a href="" class="disabled button large next">Next Page</a></li>
 							</ul>
 

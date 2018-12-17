@@ -13,11 +13,11 @@
 
 				<!-- Header -->
 					<header id="header">
-						<h1><a href="http://localhost:8000/masyarakat">PROSIBAD</a></h1>
+						<h1><a href="http://10.0.0.2/masyarakat">PROSIBAD</a></h1>
 						<nav class="links">
 							<ul>
-								<li><a href="http://localhost:8000/dokumentasi">Dokumentasi</a></li>
-								<li><a href="http://localhost:8000/sosialisasi">Sosialisasi </a></li>
+								<li><a href="http://10.0.0.2/dokumentasi">Dokumentasi</a></li>
+								<li><a href="http://10.0.0.2/sosialisasi">Sosialisasi </a></li>
 <!--
 								<li><a href="#">Feugiat</a></li>
 								<li><a href="#">Tempus</a></li>
@@ -87,7 +87,7 @@
 						<!-- Actions -->
 							<section>
 								<ul class="actions stacked">
-									<li><a href="http://localhost:8000/utama" class="button large fit">Kembali</a></li>
+									<li><a href="http://10.0.0.2/utama" class="button large fit">Kembali</a></li>
 								</ul>
 							</section>
 
@@ -539,8 +539,8 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 
 						<!-- Pagination -->
 							<ul class="actions pagination">
-								<li><a href="http://localhost:8000/masyarakat" class="disabled button large previous">Previous Page</a></li>
-								<li><a href="http://localhost:8000/masyarakat2" class="button large next">Next Page</a></li>
+								<li><a href="http://10.0.0.2/masyarakat" class="disabled button large previous">Previous Page</a></li>
+								<li><a href="http://10.0.0.2/masyarakat2" class="button large next">Next Page</a></li>
                             </ul>
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1976.4531558227202!2d110.38818950800221!3d-7.799743198594832!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x50227c42ed53f6aa!2sBPBD+D.I+Yogyakarta!5e0!3m2!1sid!2sid!4v1544962489117" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
