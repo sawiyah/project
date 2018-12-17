@@ -13,11 +13,11 @@
 
 				<!-- Header -->
 					<header id="header">
-						<h1><a href="http://10.0.0.2">PROSIBAD</a></h1>
+						<h1><a href="http://10.0.0.2/utama">PROSIBAD</a></h1>
 						<nav class="links">
 							<ul>
-								<li><a href="http://10.0.0.2">DOKUMENTASI</a></li>
-								<li><a href="http://10.0.0.2">SOSIALISASI</a></li>
+								<li><a href="http://10.0.0.2/dokumantasi">DOKUMENTASI</a></li>
+								<li><a href="http://10.0.0.2/sosialiasi">SOSIALISASI</a></li>
 							</ul>
 					</header>
 
@@ -70,17 +70,9 @@
                         
 					</div>
 
-				<!-- Footer -->
+				
 					<section id="footer">
-<!--
-						<ul class="icons">
-							<li><a href="#" class="fa-twitter"><span class="label">Twitter</span></a></li>
-							<li><a href="#" class="fa-facebook"><span class="label">Facebook</span></a></li>
-							<li><a href="#" class="fa-instagram"><span class="label">Instagram</span></a></li>
-							<li><a href="#" class="fa-rss"><span class="label">RSS</span></a></li>
-							<li><a href="#" class="fa-envelope"><span class="label">Email</span></a></li>
-						</ul>
--->
+
 						<p class="copyright">&copy;Design: PROSIBAD</p>
 					</section>
 
