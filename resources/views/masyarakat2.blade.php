@@ -59,28 +59,9 @@
 								<ul class="links">
 									<li>
 										<a href="#">
-											<h3>Tentang PROSIBAD</h3>
-										</a>
-									</li>
-									<li>
-										<a href="#">
 											<h3>Kontak</h3>
 										</a>
 									</li>
-<!--
-									<li>
-										<a href="#">
-											<h3>Feugiat veroeros</h3>
-											<p>Phasellus sed ultricies mi congue</p>
-										</a>
-									</li>
-									<li>
-										<a href="#">
-											<h3>Etiam sed consequat</h3>
-											<p>Porta lectus amet ultricies</p>
-										</a>
-									</li>
--->
 								</ul>
 							</section>
 
