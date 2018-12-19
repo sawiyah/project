@@ -227,7 +227,7 @@
 					</div>
 
 				
-					<section id="sidebar">
+					<section id="sidebar" style="max-height:600px;">
 									
                                     <h1>BERITA TERKINI</h1>
 										<article class="mini-post">
