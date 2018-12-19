@@ -2689,6 +2689,7 @@ input, select, textarea {
 				-ms-flex-wrap: wrap;
 				flex-wrap: wrap;
 				width: calc(100% + 2em);
+				max-height: 50%;
 			}
 
 				.mini-posts > * {
