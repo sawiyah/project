@@ -232,7 +232,7 @@
                                     <h1>BERITA TERKINI</h1>
 										<article class="mini-post">
 											<header>
-                                            <a class="twitter-timeline" class="max-height: 10px;" href="https://twitter.com/BpbdJogja?ref_src=twsrc%5Etfw">Tweets by BpbdJogja</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                                            <a class="twitter-timeline" style="max-height:10px;" href="https://twitter.com/BpbdJogja?ref_src=twsrc%5Etfw">Tweets by BpbdJogja</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 											</header>
 										</article>
 				
