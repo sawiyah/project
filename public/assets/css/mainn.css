@@ -2689,7 +2689,7 @@ input, select, textarea {
 				-ms-flex-wrap: wrap;
 				flex-wrap: wrap;
 				width: calc(100% + 2em);
-				max-height: 50%;
+
 			}
 
 				.mini-posts > * {
@@ -3602,7 +3602,8 @@ input, select, textarea {
     overflow:hidden;
     padding-bottom:56.25%;
     position:relative;
-    height:0;
+	height:0;
+	border-radius: 30px;
 }
 .peta-responsive iframe{
     left:0;
