@@ -16,8 +16,8 @@
 						<h1><a href="http://10.0.0.2/utama">PROSIBAD</a></h1>
 						<nav class="links">
 							<ul>
-								<li><a href="http://10.0.0.2/dokumantasi">DOKUMENTASI</a></li>
-								<li><a href="http://10.0.0.2/sosialiasi">SOSIALISASI</a></li>
+								<li><a href="http://10.0.0.2/dokumentasi">DOKUMENTASI</a></li>
+								<li><a href="http://10.0.0.2/sosialisasi">SOSIALISASI</a></li>
 							</ul>
 					</header>
 

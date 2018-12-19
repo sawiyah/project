@@ -52,7 +52,8 @@
                 <div class="form masyarakat">
                     <h2> PROSIBAD untuk kemajuan dan kesejahteraan masyarakat</h2>
                     <a href="http://10.0.0.2/dokumentasi"><button type="button" class="submit">Dokumentasi</button></a>
-                    <a href="http://10.0.0.2/sosialisasi"><button type="button" class="submit">Sosialisasi</button></a>
+                    <a href="http://10.0.0.2
+                    /sosialisasi"><button type="button" class="submit">Sosialisasi</button></a>
                 </div>
             </div>
             </div>
