@@ -2618,6 +2618,7 @@ input, select, textarea {
 		background: #ffffff;
 		border: solid 1px rgba(160, 160, 160, 0.3);
 		margin: 0 0 2em 0;
+		max-height: 10px;
 
 	}
 
@@ -3603,7 +3604,7 @@ input, select, textarea {
     padding-bottom:56.25%;
     position:relative;
 	height:0;
-	border-radius: 30px;
+
 }
 .peta-responsive iframe{
     left:0;
